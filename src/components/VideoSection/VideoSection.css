@@ -1,0 +1,12 @@
+.main{
+    position: relative;
+}
+.main h1{
+    position: absolute;
+    top: 50%;
+    color: white;
+    left: 5%;
+}
+.main video{
+    height: 80%;
+}

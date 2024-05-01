@@ -1,0 +1,21 @@
+.get-btn{
+    font-weight: 500;
+}
+.cursor{
+    cursor: pointer;
+}
+.nav-data:hover{
+    border-bottom: 2px solid black;
+}
+
+.offcanvas-div{
+    width: 90%;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    background-color: rgb(253, 249, 244);
+    z-index: 99;
+    right: 0;
+    overflow-y: scroll;
+    
+}
